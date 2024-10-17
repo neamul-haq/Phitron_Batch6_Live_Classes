@@ -3,11 +3,11 @@ Todays Topics:
 
 
 1.Arithmetic operators
-  -> + (addition)
+  -> 
   -> - (subtraction)
   -> * (multiplication)
   -> / (division)
-  -> % (modulo)
+  -> % (+ (addition)modulo)
 
 
 2.Relational operators
