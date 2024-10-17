@@ -1,0 +1,45 @@
+Todays Topics:
+==========================================================================================
+
+
+1.Arithmetic operators
+  -> + (addition)
+  -> - (subtraction)
+  -> * (multiplication)
+  -> / (division)
+  -> % (modulo)
+
+
+2.Relational operators
+  -> less than (<) , less than or equal (<=)
+  -> greater than (>) , greater than or equal (>=)
+  -> equal to (==) 
+  -> not equal (!=)
+
+3.Logical operators
+  -> AND (&&)
+  -> OR (||)  
+
+
+
+Practice Problem solving (Opearators):
+
+01. https://www.hackerrank.com/contests/week-1-introduction-to-c-programming-practice-contest-2/challenges/sum-of-two-numbers-89
+
+02. https://www.hackerrank.com/contests/week-1-introduction-to-c-programming-practice-contest-1/challenges/multiple-or-not
+
+
+==================================================================================================
+
+4 . Loop 
+  -> for Loop
+
+
+
+Problem solving (loop + conditional) : 
+1. https://www.hackerrank.com/contests/week-1-introduction-to-c-programming-practice-contest-2/challenges/divisible-by-5-or-not
+
+
+
+
+
