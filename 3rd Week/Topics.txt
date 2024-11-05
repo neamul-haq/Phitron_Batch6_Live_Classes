@@ -1,0 +1,37 @@
+Todays Topics:(3rd Week)
+===================================================================================================
+
+
+1.Array
+  -> array Operation
+  -> Problem solving using array
+      -- (i) Given n type chocklets price sortly, you have 200 tk. how many types of chocklet you can buy.
+      -- (ii) Given n numbers in a basket, how many numbers are from 10 to 100. 
+
+
+
+2.String 
+  -> String Operations
+      -- string length
+      -- string copy 
+      -- string concatation
+      -- string compare
+
+
+
+Practice Problem solving (10.5 & 11.5):
+
+
+01. https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/D
+
+02. https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/M
+
+
+
+** Hints of Mid Exam ** ==>{Okay got it!}
+
+
+================================================================================================================
+
+
+
